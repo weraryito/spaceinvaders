@@ -3,3 +3,7 @@
 INTEGRANTES:
 - Juan Pablo Cota Elizalde
 - Víctor Manuel Moreno Castro
+
+INSTRUCCIONES:
+Movimientos = Flechas izquierda y derecha.
+Disparo = Flecha hacia arriba.
